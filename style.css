@@ -34,7 +34,7 @@ body {
 }
 
 .magic:active {
-  transform: translateY(10 px);
+  transform: translateY(10px);
 }
 
 .boxes {
